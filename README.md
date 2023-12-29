@@ -7,9 +7,9 @@ Utilizando a APIhttps://viacep.com.br/ws/${CEP}/json/ Desenvolvi um formulário 
 
 ### Construído com
 
-• HTML5
-• CSS
-• JavaScript
+• HTML5    
+• CSS    
+• JavaScript    
 
 ### Autor
 
